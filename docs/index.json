@@ -1,0 +1,1767 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/App.test.js",
+    "content": "import { render, screen } from '@testing-library/react';\nimport App from './App';\n\ntest('renders learn react link', () => {\n  render(<App />);\n  const linkElement = screen.getByText(/learn react/i);\n  expect(linkElement).toBeInTheDocument();\n});\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/App.test.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx",
+    "content": "import React from \"react\";\nimport \"./Capsule.scss\";\nimport { FontAwesomeIcon } from \"@fortawesome/react-fontawesome\";\n/**\n * This is a child component for DropDown Component, it renders the box above actual drop down, which shows the selected value of dropdown.   \n * @method Capsule\n * @param {string} text\n * @param {method} onClickCapsule\n * @param {Boolean} showDropdown\n * \n */\nfunction Capsule({ text, onClickCapsule, showDropdown }) {\n  return (\n    <div\n      className=\"dropdown-capsule\"\n      onClick={(event) => {\n        event.stopPropagation();\n        onClickCapsule();\n      }}\n    >\n      {text}\n      {showDropdown ? (\n        <img\n          src={`${process.env.PUBLIC_URL}/assets/images/chevron-down.svg`}\n          alt=\"chevron-up\"\n          className=\"dropdown-capsule-img-down\"\n        />\n      ) : (\n        <img\n          src={`${process.env.PUBLIC_URL}/assets/images/chevron-down.svg`}\n          alt=\"chevron-down\"\n          className=\"dropdown-capsule-img\"\n        />\n      )}\n    </div>\n  );\n}\n\nexport default Capsule;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "Capsule",
+    "memberof": "src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx~Capsule",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx",
+    "importStyle": "Capsule",
+    "description": "This is a child component for DropDown Component, it renders the box above actual drop down, which shows the selected value of dropdown.   ",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "Capsule"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "onClickCapsule",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "showDropdown",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx",
+    "content": "import { React, useState } from \"react\";\nimport \"./Dropdown.scss\";\nimport Capsule from \"../capsule/Capsule\";\nimport useClickOutside from \"../../../../hooks/useClickOutside\";\n/**\n * This function renders general Dropdowns, used in  API type(GET,POST,DELETE,PUT) Dropdown in here.  \n * @method Dropdown\n * @param {string} [inputArray]\n * @param {method} [onSelect]\n * @param {method} [selectedString]\n * \n */\n\nfunction Dropdown({ inputArray, onSelect, selectedString }) {\n  let [showDropdown, setShowDropdown] = useState(false);\n  const containerRef = useClickOutside(() => setShowDropdown(false));\n\n  return (\n    <div className=\"dropdown\">\n      <Capsule\n        text={selectedString}\n        onClickCapsule={() => setShowDropdown(!showDropdown)}\n        showDropdown={showDropdown}\n      ></Capsule>\n      {showDropdown && (\n        <div className=\"dropdown-container\" ref={containerRef}>\n          {inputArray.map((input, index) => (\n            <div\n              key={index}\n              className={`dropdown-container__item ${\n                input.selected && `dropdown-selected`\n              }`}\n              onClick={() => {\n                 onSelect(input);\n                 setShowDropdown(false);\n              }}\n            >\n              {input.apiType}\n            </div>\n          ))}\n        </div>\n      )}\n    </div>\n  );\n}\n\nexport default Dropdown;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "Dropdown",
+    "memberof": "src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx~Dropdown",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx",
+    "importStyle": "Dropdown",
+    "description": "This function renders general Dropdowns, used in  API type(GET,POST,DELETE,PUT) Dropdown in here.  ",
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "Dropdown"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "inputArray",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "onSelect",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "selectedString",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/components/ApiSearchbox/SendButton/SendButton.jsx",
+    "content": "import React from 'react'\nimport \"./SendButton.scss\"\nimport BlueButtonWrapper from '../../../containers/BlueButtonWrapper/BlueButtonWrapper';\n\n/**\n * This component renders the textArea required to input payload in the request body of the API requests.\n * @method RequestBodyArea\n * @param {method} onClick\n *\n * \n */\nfunction SendButton({onClick}) {\n  return (\n\n    <BlueButtonWrapper className='send-btn' onClick={onClick}>\n       Send\n    </BlueButtonWrapper>\n  )\n}\n\nexport default SendButton",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/ApiSearchbox/SendButton/SendButton.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "SendButton",
+    "memberof": "src/components/ApiSearchbox/SendButton/SendButton.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/ApiSearchbox/SendButton/SendButton.jsx~SendButton",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/ApiSearchbox/SendButton/SendButton.jsx",
+    "importStyle": "SendButton",
+    "description": "This component renders the textArea required to input payload in the request body of the API requests.",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "RequestBodyArea"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "onClick",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/components/ApiSearchbox/index/ApiSearchbox.jsx",
+    "content": "import React, { useState } from \"react\";\nimport FlexWrapper from \"../../FlexWrapper/FlexWrapper\";\nimport Dropdown from \"../Dropdown/index/Dropdown\";\n\nimport \"./ApiSearchbox.scss\";\nimport SendButton from \"../SendButton/SendButton\";\n\n/**\n * This function renders (Dropdown, input and the send Button) on UI responsible for search handling the API URL with API type(GET,POST,DELETE,PUT).\n * @method ApiSearchBox\n * @param {string} [apiURL]\n * @param {method} [setApiURL]\n * @param {method} [handleAPIRequest]\n * @param {method} [apiTypeListDropdown]\n * @param {method} [setApiTypeListDropdown]\n */\nfunction ApiSearchbox({\n  apiURL,\n  setApiURL,\n  handleAPIRequest,\n  apiTypeListDropdown,\n  setApiTypeListDropdown,\n}) {\n  let selectedString = apiTypeListDropdown.find(\n    (input) => input.selected\n  ).apiType;\n\n  const handleSelectDD = (selectedItem) => {\n    let newInputArray = apiTypeListDropdown.map((item) =>\n      item.apiType === selectedItem.apiType\n        ? { ...item, selected: true }\n        : { ...item, selected: false }\n    );\n    setApiTypeListDropdown(newInputArray);\n  };\n\n  const handleChangeInput = (event) => {\n    setApiURL(event.target.value);\n  };\n\n  return (\n    <React.Fragment>\n      <FlexWrapper className=\"input-container\">\n        <Dropdown\n          inputArray={apiTypeListDropdown}\n          onSelect={handleSelectDD}\n          selectedString={selectedString}\n        />\n        {/* <Input  onChangeValue={handleChangeInput}/> */}\n        <input\n          type=\"text\"\n          placeholder=\"Enter Request URL\"\n          className=\"input-container__input\"\n          onChange={handleChangeInput}\n          value={apiURL}\n          onKeyDown={(e) => {\n            if(e.key === \"Enter\") \n               handleAPIRequest();\n          }}\n        />\n        <SendButton onClick={handleAPIRequest} />\n      </FlexWrapper>\n    </React.Fragment>\n  );\n}\n\nexport default ApiSearchbox;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/ApiSearchbox/index/ApiSearchbox.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "ApiSearchbox",
+    "memberof": "src/components/ApiSearchbox/index/ApiSearchbox.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/ApiSearchbox/index/ApiSearchbox.jsx~ApiSearchbox",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/ApiSearchbox/index/ApiSearchbox.jsx",
+    "importStyle": "ApiSearchbox",
+    "description": "This function renders (Dropdown, input and the send Button) on UI responsible for search handling the API URL with API type(GET,POST,DELETE,PUT).",
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "ApiSearchBox"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "apiURL",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "setApiURL",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "handleAPIRequest",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "apiTypeListDropdown",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "setApiTypeListDropdown",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/components/ApiSearchbox/index.js",
+    "content": "export  {default as ApiSearchbox} from \"./index/ApiSearchbox\";\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/ApiSearchbox/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/components/App.js",
+    "content": "import './App.scss';\nimport {Routes,Route,Redirect} from \"react-router-dom\";\nimport Workspace from '../pages/Workspace';\n\n/**\n * This is the function getting rendered inside the root component of App.\n */\nfunction App() {\n  return (\n    <Routes>\n      <Route path=\"/\" element={<Workspace/>} >\n      </Route>\n    </Routes>\n  );\n}\n\nexport default App;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/App.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "App",
+    "memberof": "src/components/App.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/App.js~App",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/App.js",
+    "importStyle": "App",
+    "description": "This is the function getting rendered inside the root component of App.",
+    "lineNumber": 8,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/components/Content/Content.jsx",
+    "content": "import React, { useState } from \"react\";\nimport \"./Content.scss\";\nimport { ApiSearchbox } from \"../ApiSearchbox\";\nimport ResponseArea from \"../ResponseArea/ResponseArea\";\nimport FlexWrapper from \"../FlexWrapper/FlexWrapper\";\nimport { ToastContainer, toast } from \"react-toastify\";\nimport \"react-toastify/dist/ReactToastify.css\";\nimport HTTPService from \"../../services/HTTPService\";\nimport RequestBodyOptions from \"../RequestBodyOptions/RequestBodyOptions\";\nimport useLocalStorage from \"../../hooks/useLocalStorage\";\nimport RequestInputArea from \"../RequestInputArea/RequestInputArea\";\n/**\n * This function renders the Central UI section which includes searching of API and showing results.   \n * @method Content\n * \n */\nfunction Content() {\n  const initialDD = [\n    { apiType: \"GET\", selected: true },\n    { apiType: \"POST\", selected: false },\n    { apiType: \"PUT\", selected: false },\n    { apiType: \"DELETE\", selected: false },\n  ];\n\n  const optionsList = [\n    { type: \"Headers\", selected: false },\n    { type: \"Body\", selected: true },\n  ];\n  const [apiURL, setApiURL] = useState(\"\");\n  const [apiResponseData, setApiResponseData] = useState({ data: [] });\n  const [apiTypeListDropdown, setApiTypeListDropdown] = useState(initialDD);\n  const [reqBodyData, setRequestBodyData] = useState({});\n  const [headerOptions, setHeaderOptions] = useState(optionsList);\n  const [additionalHeaders, setAdditionalHeaders] = useLocalStorage(\"headers\",{\n    key: \"\",\n    value: \"\",\n  });\n\n  const handleClickTab = (selectedIndex) => {\n    let headerOptionsNew = headerOptions.map((tab, index) =>\n      index === selectedIndex\n        ? { ...tab, selected: true }\n        : { ...tab, selected: false }\n    );\n    setHeaderOptions(headerOptionsNew);\n  };\n\n  const handleAPIRequest = async () => {\n    if (apiURL) {\n      let apiTypeSelected = apiTypeListDropdown.filter((api) => api.selected)[0]\n        .apiType;\n\n      let apiResponse = await getAPIResponse(apiTypeSelected, apiURL);\n\n      setApiResponseData(apiResponse);\n    } else {\n      toast(\"API URL is empty\");\n    }\n  };\n\n  const getAPIResponse = async (apiTypeSelected, apiURL) => {\n    let response = {};\n    // Change is about to happen in the file 1\n    switch (apiTypeSelected) {\n      case \"GET\":\n        return await HTTPService.post(\"http://localhost:2410/GET-call\", {\n          apiURL,\n        });\n\n      case \"POST\":\n        return await HTTPService.post(\"http://localhost:2410/POST-call\", {\n          apiURL,\n          reqBodyData,\n          additionalHeaders\n        });\n      case \"PUT\":\n        return await HTTPService.post(\"http://localhost:2410/PUT-call\", {\n          apiURL,\n          reqBodyData,\n        });\n      case \"DELETE\":\n        return await HTTPService.post(\"http://localhost:2410/DELETE-call\", {\n          apiURL,\n        });\n    }\n  };\n\n  const handleChangeHeader = (e) => {\n    let additionalHeadersCopy = {\n      ...additionalHeaders,\n      [e.target.name]: e.target.value,\n    };\n\n\n    setAdditionalHeaders(additionalHeadersCopy);\n  };\n\n  let selectedOptionType = headerOptions.filter((option) => option.selected)[0]\n    .type;\n\n  return (\n    <React.Fragment>\n      <FlexWrapper direction=\"column\" className=\"main-container\">\n        <ApiSearchbox\n          apiResponseData={apiResponseData}\n          setApiResponseData={setApiResponseData}\n          apiURL={apiURL}\n          setApiURL={setApiURL}\n          handleAPIRequest={handleAPIRequest}\n          apiTypeListDropdown={apiTypeListDropdown}\n          setApiTypeListDropdown={setApiTypeListDropdown}\n        />\n        <RequestBodyOptions\n          optionsList={headerOptions}\n          onClickTab={handleClickTab}\n        />\n        <RequestInputArea\n          reqBodyData={reqBodyData}\n          setRequestBodyData={setRequestBodyData}\n          selectedOptionType={selectedOptionType}\n          handleChangeHeader={handleChangeHeader}\n          additionalHeaders={additionalHeaders}\n        />\n\n        <ResponseArea apiResponseData={apiResponseData.data} />\n\n        <ToastContainer\n          position=\"bottom-right\"\n          autoClose={3000}\n          hideProgressBar={false}\n          newestOnTop={false}\n          closeOnClick\n          rtl={false}\n          pauseOnFocusLoss\n          draggable\n          pauseOnHover\n        />\n        {/* Same as */}\n      </FlexWrapper>\n    </React.Fragment>\n  );\n}\n\nexport default Content;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/Content/Content.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "Content",
+    "memberof": "src/components/Content/Content.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/Content/Content.jsx~Content",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/Content/Content.jsx",
+    "importStyle": "Content",
+    "description": "This function renders the Central UI section which includes searching of API and showing results.   ",
+    "lineNumber": 17,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "Content"
+      }
+    ],
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/components/FlexWrapper/FlexWrapper.jsx",
+    "content": "import React from 'react'\nimport \"./FlexWrapper.scss\";\n/**\n * This function renders (Dropdown, input and the send Button) on UI responsible for search handling the API URL with API type(GET,POST,DELETE,PUT).  \n * @method ApiSearchBox\n * @param {object} [children]\n * @param {string} [height]\n * @param {string} [className]\n\n */\n\nfunction FlexWrapper({children,height,direction,className}) {\n\nlet flexDirection = direction===\"column\"?\"column\":\"row\"\n\n  return (\n    <div className={`flex-wrapper ${className && className}`} style={{height, flexDirection}}>{children}</div>\n  )\n}\n\nexport default FlexWrapper",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/FlexWrapper/FlexWrapper.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "FlexWrapper",
+    "memberof": "src/components/FlexWrapper/FlexWrapper.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/FlexWrapper/FlexWrapper.jsx~FlexWrapper",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/FlexWrapper/FlexWrapper.jsx",
+    "importStyle": "FlexWrapper",
+    "description": "This function renders (Dropdown, input and the send Button) on UI responsible for search handling the API URL with API type(GET,POST,DELETE,PUT).  ",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "ApiSearchBox"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "children",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "height",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "className",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/components/Header/Header.jsx",
+    "content": "import React from \"react\";\nimport \"./Header.scss\";\n\nimport { FontAwesomeIcon } from \"@fortawesome/react-fontawesome\";\nimport {\n  faPlusSquare,\n  faFileImport,\n  faThLarge,\n  faChevronDown,\n  faUserPlus,\n  faSyncAlt,\n  faSatelliteDish,\n  faWrench,\n  faBell,\n  faHeart,\n  faMicrochip,\n} from \"@fortawesome/free-solid-svg-icons\";\n/**\n * This function renders topmost bar of the app UI.\n */\n\nconst Header = () => {\n  return (\n    <div className=\"header\">\n      <div className=\"header__row\">\n        {/* Left Side Buttons */}\n        <div className=\"header__column\">\n          <button className=\"header__newButton\">\n            <FontAwesomeIcon icon={faPlusSquare} className=\"icon\" />\n            New\n          </button>\n          <button className=\"header__button\">Import</button>\n          <button className=\"header__button\">Runner</button>\n          <button className=\"header__button\">\n            <FontAwesomeIcon icon={faFileImport} className=\"icon\" />\n          </button>\n        </div>\n        {/* Center Content */}\n        <div className=\"header__column\">\n          <div className=\"header__titleWrapper\">\n            <FontAwesomeIcon icon={faThLarge} id=\"header__titleIcon\" />\n            <span className=\"header__titleText\">My workspace</span>\n            <FontAwesomeIcon\n              icon={faChevronDown}\n              className=\"header_titleDropDownIcon\"\n            />\n            <button className=\"header__button\" id=\"header__inviteButton\">\n              <FontAwesomeIcon icon={faUserPlus} className=\"icon\" />\n              Invite\n            </button>\n          </div>\n        </div>\n        {/* Right Side Content */}\n        <div className=\"header__column\">\n          <div className=\"header__iconWrapper\">\n            <FontAwesomeIcon\n              icon={faSyncAlt}\n              className=\"header__iconButton active\"\n            />\n            <FontAwesomeIcon\n              icon={faSatelliteDish}\n              className=\"header__iconButton\"\n            />\n            <FontAwesomeIcon icon={faWrench} className=\"header__iconButton\" />\n            <FontAwesomeIcon icon={faBell} className=\"header__iconButton\" />\n            <FontAwesomeIcon icon={faHeart} className=\"header__iconButton\" />\n            <FontAwesomeIcon\n              icon={faMicrochip}\n              className=\"header__iconButton\"\n            />\n            <button className=\"header__button\" id=\"header__upgradeButton\">\n              Upgrade\n              <FontAwesomeIcon icon={faChevronDown} style={{ marginLeft: 5 }} />\n            </button>\n          </div>\n        </div>\n      </div>\n    </div>\n  );\n};\nexport default Header;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/Header/Header.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "Header",
+    "memberof": "src/components/Header/Header.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/Header/Header.jsx~Header",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/Header/Header.jsx",
+    "importStyle": "Header",
+    "description": "This function renders topmost bar of the app UI.",
+    "lineNumber": 22,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/components/HeadersTable/HeadersTable.jsx",
+    "content": "import React from 'react'\nimport \"./HeadersTable.scss\"\n/**\n * This component renders the table of key-value pairs required for additional Headers for the API requests.    \n * @method HeadersTable\n * @param {string} text\n * @param {method} onClickCapsule\n * @param {Boolean} showDropdown\n * \n */\n\nfunction HeadersTable({handleChangeHeader,additionalHeaders}) {\n  return (\n    <table className='headers-table'>\n        <thead>\n    <tr>\n      <th>Key</th>\n      <th>Value</th>\n    </tr>\n    <tr>\n        \n      <td><textarea placeholder=\"Key\" name=\"key\" onChange={handleChangeHeader} value={additionalHeaders.key} /> </td>\n      <td><textarea placeholder=\"Value\" name=\"value\" onChange={handleChangeHeader} value={additionalHeaders.value}/></td>\n    </tr>\n        </thead>\n  </table>\n  )\n}\n\nexport default HeadersTable",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/HeadersTable/HeadersTable.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "HeadersTable",
+    "memberof": "src/components/HeadersTable/HeadersTable.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/HeadersTable/HeadersTable.jsx~HeadersTable",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/HeadersTable/HeadersTable.jsx",
+    "importStyle": "HeadersTable",
+    "description": "This component renders the table of key-value pairs required for additional Headers for the API requests.    ",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "HeadersTable"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "text",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "onClickCapsule",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "showDropdown",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "file",
+    "name": "src/components/RequestBodyArea /RequestBodyArea.jsx",
+    "content": "import React from 'react'\nimport \"./RequestBodyArea.scss\";\n/**\n * This component renders the textArea required to input payload in the request body of the API requests.\n * @method RequestBodyArea\n * @param {method} onChange\n * @param {object} value\n * \n */\nfunction RequestBodyArea({onChange,value}) {\n  \n  return (\n    <textArea className=\"text-area\" spellCheck={false} onChange={onChange} value={value}/>\n  )\n}\n\nexport default RequestBodyArea",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/RequestBodyArea /RequestBodyArea.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "RequestBodyArea",
+    "memberof": "src/components/RequestBodyArea /RequestBodyArea.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/RequestBodyArea /RequestBodyArea.jsx~RequestBodyArea",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/RequestBodyArea /RequestBodyArea.jsx",
+    "importStyle": "RequestBodyArea",
+    "description": "This component renders the textArea required to input payload in the request body of the API requests.",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "RequestBodyArea"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "onChange",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/components/RequestBodyOptions/RequestBodyOptions.jsx",
+    "content": "import React from 'react'\nimport \"./RequestBodyOptions.scss\";\n\n/**\n * This function renders the list of tabs options, for API requests body and header.\n * @method RequestBodyOptions\n * @param {array} [optionsList]\n * @param {method} [onClickTab]\n */\nfunction RequestBodyOptions({optionsList,onClickTab}) {\n  return (\n    <div className='request-body-options'>\n        {optionsList.map((data,index) => (\n        <div key={index} className={data.selected ? 'active-selection':''} onClick={()=>onClickTab(index)}>\n          \n            {data.type}\n        </div>\n    ))}</div>\n  )\n}\n\nexport default RequestBodyOptions",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/RequestBodyOptions/RequestBodyOptions.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "RequestBodyOptions",
+    "memberof": "src/components/RequestBodyOptions/RequestBodyOptions.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/RequestBodyOptions/RequestBodyOptions.jsx~RequestBodyOptions",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/RequestBodyOptions/RequestBodyOptions.jsx",
+    "importStyle": "RequestBodyOptions",
+    "description": "This function renders the list of tabs options, for API requests body and header.",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "RequestBodyOptions"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "array"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "optionsList",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "onClickTab",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "src/components/RequestInputArea/RequestInputArea.jsx",
+    "content": "import React from \"react\";\nimport HeadersTable from \"../HeadersTable/HeadersTable\";\nimport RequestBodyArea from \"../RequestBodyArea /RequestBodyArea\";\n/**\n * This component renders the `additional Headers table` or `request body area` component based on the selection on the tabs(Headeror Body)\n * @method RequestInputArea\n * @param {method} handleChangeHeader\n * @param {string} selectedOptionType\n * @param {object} additionalHeaders\n * @param {method}   setRequestBodyData\n * @param {object} reqBodyData\n */\nconst RequestInputArea = ({\n  handleChangeHeader,\n  selectedOptionType,\n  additionalHeaders,\n  setRequestBodyData,\n  reqBodyData\n}) => {\n  switch (selectedOptionType) {\n    case \"Headers\":\n      return (\n        <HeadersTable\n          handleChangeHeader={handleChangeHeader}\n          additionalHeaders={additionalHeaders}\n        />\n      );\n\n    case \"Body\":\n      return (\n        <RequestBodyArea\n          onChange={(e) =>\n            setRequestBodyData(JSON.parse(e.currentTarget.value))\n          }\n          value={reqBodyData}\n        />\n      );\n  }\n};\n\nexport default RequestInputArea;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/RequestInputArea/RequestInputArea.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "RequestInputArea",
+    "memberof": "src/components/RequestInputArea/RequestInputArea.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/RequestInputArea/RequestInputArea.jsx~RequestInputArea",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/RequestInputArea/RequestInputArea.jsx",
+    "importStyle": "RequestInputArea",
+    "description": "This component renders the `additional Headers table` or `request body area` component based on the selection on the tabs(Headeror Body)",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "RequestInputArea"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "handleChangeHeader",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "selectedOptionType",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "additionalHeaders",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "setRequestBodyData",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "reqBodyData",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "file",
+    "name": "src/components/ResponseArea/ResponseArea.jsx",
+    "content": "import React from 'react'\nimport \"./ResponseArea.scss\"\n/**\n * This function returns the JSON response sent by the server.\n * @method ResponseArea\n * @param {object} [apiResponseData]\n */\nfunction ResponseArea({apiResponseData}) {\n  return (\n      <React.Fragment>\n          { Object.keys(apiResponseData).length === 0 ? \"\":  <pre className='pre-response' >{JSON.stringify(apiResponseData,null,2)}</pre>}\n\n      </React.Fragment>\n  )\n}\n\nexport default ResponseArea",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/ResponseArea/ResponseArea.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "ResponseArea",
+    "memberof": "src/components/ResponseArea/ResponseArea.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/ResponseArea/ResponseArea.jsx~ResponseArea",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/ResponseArea/ResponseArea.jsx",
+    "importStyle": "ResponseArea",
+    "description": "This function returns the JSON response sent by the server.",
+    "lineNumber": 8,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "ResponseArea"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "apiResponseData",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "file",
+    "name": "src/components/Sidebar/Sidebar.jsx",
+    "content": "import React, { useState } from \"react\";\nimport \"./Sidebar.scss\";\n\nimport { FontAwesomeIcon } from \"@fortawesome/react-fontawesome\";\nimport {\n  faPlus,\n  faCaretRight,\n  faFolder,\n} from \"@fortawesome/free-solid-svg-icons\";\n\n\n/**\n * This function renders the Sidebar options on the UI.\n * @method Sidebar\n */\nconst Sidebar = () => {\n  const [tabs] = useState([\"History\", \"Collections\", \"APIs\"]);\n  const [tabIndex, setTabIndex] = useState(1);\n\n  const handleTabChange = (index) => {\n    setTabIndex(index);\n  };\n\n  return (\n    <div className=\"sidebar\">\n      <div className=\"sidebar__searchBarWrapper\">\n        <input\n          type=\"text\"\n          placeholder=\"Filter\"\n          className=\"sidebar__searchBar\"\n        />\n        <div className=\"sidebar__menu\">\n          {tabs.map((tab, index) => {\n            return (\n              <span\n                onClick={() => handleTabChange(index)}\n                className={\n                  index === tabIndex\n                    ? \"sidebar__menuOptions active\"\n                    : \"sidebar__menuOptions\"\n                }\n              >\n                {tab}\n              </span>\n            );\n          })}\n        </div>\n        <div className=\"sidebar__row\">\n          <div className=\"sidebar__column\">\n            <span className=\"sidebar__newCollectionLink\">\n              <FontAwesomeIcon icon={faPlus} /> New Collection\n            </span>\n            <span className=\"sidebar__trashLink\">Trash</span>\n          </div>\n        </div>\n        {/* Collections List */}\n        <div className=\"sidebar__collectionList\">\n          {collections.map((collection, index) => {\n            return (\n              <div className=\"sidebar__collection\">\n                <div className=\"sidebar__collectionRow\">\n                  <div className=\"sidebar__collectionColumn\">\n                    <FontAwesomeIcon\n                      icon={faCaretRight}\n                      className=\"sidebar__icons\"\n                    />\n                    <FontAwesomeIcon\n                      icon={faFolder}\n                      className=\"sidebar__icons\"\n                    />\n                  </div>\n                  <div className=\"sidebar__collectionColumn\">\n                    <span>{collection.name}</span>\n                    <p className=\"sidebar__collectionRequests\">\n                      {collection.requestsCount} Requests\n                    </p>\n                  </div>\n                </div>\n              </div>\n            );\n          })}\n        </div>\n      </div>\n    </div>\n  );\n};\nexport default Sidebar;\n\n// Data\nconst collections = [\n  {\n    name: \"CMP Collection\",\n    requestsCount: 59,\n  },\n  {\n    name: \"EEP API Collection\",\n    requestsCount: 20,\n  },\n  {\n    name: \"i18n Api Collection\",\n    requestsCount: 30,\n  },\n];\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/components/Sidebar/Sidebar.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 77,
+    "kind": "variable",
+    "name": "collections",
+    "memberof": "src/components/Sidebar/Sidebar.jsx",
+    "static": true,
+    "longname": "src/components/Sidebar/Sidebar.jsx~collections",
+    "access": "public",
+    "export": false,
+    "importPath": "postman-demo-app/src/components/Sidebar/Sidebar.jsx",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 90,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "Sidebar",
+    "memberof": "src/components/Sidebar/Sidebar.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/Sidebar/Sidebar.jsx~Sidebar",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/components/Sidebar/Sidebar.jsx",
+    "importStyle": "Sidebar",
+    "description": "This function renders the Sidebar options on the UI.",
+    "lineNumber": 16,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "Sidebar"
+      }
+    ],
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx",
+    "content": "import React from 'react'\nimport \"./BlueButtonWrapper.scss\";\n/**\n * This function is a  wrapper component for Blue Buttons in the application.   \n * @method ApiSearchBox\n * @param {object} [children]\n * @param {string} [className]\n * @param {method} [onClick]\n * \n */\nfunction BlueButtonWrapper({children,className,onClick}) {\n  return (\n    <button onClick={onClick} className={`blue-btn-wrapper ${className && className}`}>{children}</button>\n  )\n}\n\nexport default BlueButtonWrapper",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "BlueButtonWrapper",
+    "memberof": "src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx~BlueButtonWrapper",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx",
+    "importStyle": "BlueButtonWrapper",
+    "description": "This function is a  wrapper component for Blue Buttons in the application.   ",
+    "lineNumber": 11,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "ApiSearchBox"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "children",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "className",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "method"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "onClick",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/hooks/useClickOutside.jsx",
+    "content": "import {React,useState,useEffect,useRef} from 'react'\n/**\n * A custom hook for handle outside click events\n * @method useClickOutside\n */\nfunction useClickOutside(onClickOutside) {\n  \n\nlet containerRef = useRef();\n\nuseEffect(()=> {\n\n  window.addEventListener('click',(event)=> handleClickOutside(event))\n},[])\n\n\nconst handleClickOutside=(event)=> {\n  if( containerRef.current && !containerRef.current.contains(event.target)) {\n\n    onClickOutside();\n  }\n}\n\nreturn containerRef;\n   \n}\n\nexport default useClickOutside",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/hooks/useClickOutside.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "useClickOutside",
+    "memberof": "src/hooks/useClickOutside.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/hooks/useClickOutside.jsx~useClickOutside",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/hooks/useClickOutside.jsx",
+    "importStyle": "useClickOutside",
+    "description": "A custom hook for handle outside click events",
+    "lineNumber": 6,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "useClickOutside"
+      }
+    ],
+    "params": [
+      {
+        "name": "onClickOutside",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/hooks/useLocalStorage.jsx",
+    "content": "import { useState } from \"react\";\n/**\n * A custom hook (replacement for useState) incase the value needs to be stored in the local storage with a key.\n * @method useLocalStorage\n */\nconst useLocalStorage = (key, initialValue) => {\n  const [storedValue, setStoredValue] = useState(() => {\n    try {\n      const item = window.localStorage.getItem(key);\n      return item ? JSON.parse(item) : initialValue;\n    } catch (err) {\n      console.error(err);\n      return initialValue;\n    }\n  });\n\n  const setValue = (value) => {\n    console.log(value, \"value\");\n    try {\n      const valueToStore =\n        value instanceof Function ? value(storedValue) : value;\n      setStoredValue(valueToStore);\n      window.localStorage.setItem(key, JSON.stringify(storedValue));\n    } catch (err) {\n      console.error(err);\n    }\n  };\n\n  return [storedValue, setValue];\n};\n\nexport default useLocalStorage;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/hooks/useLocalStorage.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "useLocalStorage",
+    "memberof": "src/hooks/useLocalStorage.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/hooks/useLocalStorage.jsx~useLocalStorage",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/hooks/useLocalStorage.jsx",
+    "importStyle": "useLocalStorage",
+    "description": "A custom hook (replacement for useState) incase the value needs to be stored in the local storage with a key.",
+    "lineNumber": 6,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "useLocalStorage"
+      }
+    ],
+    "params": [
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "initialValue",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import React from 'react';\nimport ReactDOM from 'react-dom';\nimport './index.css';\nimport App from './components/App';\nimport reportWebVitals from './reportWebVitals';\nimport {BrowserRouter} from \"react-router-dom\";\n\nReactDOM.render(\n  <React.StrictMode>\n    <BrowserRouter>\n    <App />\n    </BrowserRouter>\n  </React.StrictMode>,\n  document.getElementById('root')\n);\n\n// If you want to start measuring performance in your app, pass a function\n// to log results (for example: reportWebVitals(console.log))\n// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals\nreportWebVitals();\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "src/pages/Workspace.jsx",
+    "content": "import Header from \"../components/Header/Header\"; \nimport Sidebar from \"../components/Sidebar/Sidebar\";\nimport Content from \"../components/Content/Content\";\nimport FlexWrapper from \"../components/FlexWrapper/FlexWrapper\";\nimport React from \"react\";\n/**\n * A Function renders UI on the root route (\"/\") of the application\n * @method Workspace\n */\nconst Workspace = () => {\n    return (\n      <React.Fragment>\n        <Header/>\n        <FlexWrapper  height={`calc(100vh - 64.7px)`} >\n        <Sidebar/>\n        <Content/>\n        </FlexWrapper>     \n      </React.Fragment>\n    );\n};\n\nexport default Workspace;",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/pages/Workspace.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "function",
+    "name": "Workspace",
+    "memberof": "src/pages/Workspace.jsx",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/pages/Workspace.jsx~Workspace",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/pages/Workspace.jsx",
+    "importStyle": "Workspace",
+    "description": "A Function renders UI on the root route (\"/\") of the application",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "Workspace"
+      }
+    ],
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "file",
+    "name": "src/reportWebVitals.js",
+    "content": "const reportWebVitals = onPerfEntry => {\n  if (onPerfEntry && onPerfEntry instanceof Function) {\n    import('web-vitals').then(({ getCLS, getFID, getFCP, getLCP, getTTFB }) => {\n      getCLS(onPerfEntry);\n      getFID(onPerfEntry);\n      getFCP(onPerfEntry);\n      getLCP(onPerfEntry);\n      getTTFB(onPerfEntry);\n    });\n  }\n};\n\nexport default reportWebVitals;\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/reportWebVitals.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 89,
+    "kind": "function",
+    "name": "reportWebVitals",
+    "memberof": "src/reportWebVitals.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reportWebVitals.js~reportWebVitals",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/reportWebVitals.js",
+    "importStyle": "reportWebVitals",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "onPerfEntry",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 90,
+    "kind": "file",
+    "name": "src/services/HTTPService.js",
+    "content": "import axios from 'axios';\n\n\n/**\n * This page provides  access to the axios methods in the components.\n * @method useClickOutside\n */\nexport default {\n\t// get: axios.get,\n\tpost: axios.post,\n\t// put: axios.put,\n\t// delete: axios.delete,\n\t// all: axios.all\n};",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/services/HTTPService.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "src/setupTests.js",
+    "content": "// jest-dom adds custom jest matchers for asserting on DOM nodes.\n// allows you to do things like:\n// expect(element).toHaveTextContent(/react/i)\n// learn more: https://github.com/testing-library/jest-dom\nimport '@testing-library/jest-dom';\n",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/setupTests.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "src/utils/contants.jsx",
+    "content": "/**\n * This module will provide the constants for harcoded values across the app to maintain consistent code quality.\n */\n\nexport const ENTER_REQUEST_URL = \"Enter request URL\"",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/utils/contants.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "variable",
+    "name": "ENTER_REQUEST_URL",
+    "memberof": "src/utils/contants.jsx",
+    "static": true,
+    "longname": "src/utils/contants.jsx~ENTER_REQUEST_URL",
+    "access": "public",
+    "export": true,
+    "importPath": "postman-demo-app/src/utils/contants.jsx",
+    "importStyle": "{ENTER_REQUEST_URL}",
+    "description": "This module will provide the constants for harcoded values across the app to maintain consistent code quality.",
+    "lineNumber": 5,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "src/utils/enums.jsx",
+    "content": "",
+    "static": true,
+    "longname": "/home/vinay/postman-demo-app/src/utils/enums.jsx",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": "# Getting Started with Create React App\n\nThis project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\n\n## Available Scripts\n\nIn the project directory, you can run:\n\n### `npm start`\n\nRuns the app in the development mode.\\\nOpen [http://localhost:3000](http://localhost:3000) to view it in your browser.\n\nThe page will reload when you make changes.\\\nYou may also see any lint errors in the console.\n\n### `npm test`\n\nLaunches the test runner in the interactive watch mode.\\\nSee the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.\n\n### `npm run build`\n\nBuilds the app for production to the `build` folder.\\\nIt correctly bundles React in production mode and optimizes the build for the best performance.\n\nThe build is minified and the filenames include the hashes.\\\nYour app is ready to be deployed!\n\nSee the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\n\n### `npm run eject`\n\n**Note: this is a one-way operation. Once you `eject`, you can't go back!**\n\nIf you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.\n\nInstead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.\n\nYou don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.\n\n## Learn More\n\nYou can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).\n\nTo learn React, check out the [React documentation](https://reactjs.org/).\n\n### Code Splitting\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)\n\n### Analyzing the Bundle Size\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)\n\n### Making a Progressive Web App\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)\n\n### Advanced Configuration\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)\n\n### Deployment\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)\n\n### `npm run build` fails to minify\n\nThis section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)\n",
+    "longname": "/home/vinay/postman-demo-app/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"postman-demo-app\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"@fortawesome/free-solid-svg-icons\": \"^6.1.0\",\n    \"@fortawesome/react-fontawesome\": \"^0.1.18\",\n    \"@testing-library/jest-dom\": \"^5.16.2\",\n    \"@testing-library/react\": \"^12.1.4\",\n    \"@testing-library/user-event\": \"^13.5.0\",\n    \"axios\": \"^0.26.1\",\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n    \"esdoc-jsx-plugin\": \"^1.0.0\",\n    \"esdoc-react-plugin\": \"^1.0.1\",\n    \"history\": \"^5.3.0\",\n    \"react\": \"^17.0.2\",\n    \"react-dom\": \"^17.0.2\",\n    \"react-router-dom\": \"^6.2.2\",\n    \"react-scripts\": \"5.0.0\",\n    \"react-toastify\": \"^8.2.0\",\n    \"sass\": \"^1.49.9\",\n    \"web-vitals\": \"^2.1.4\"\n  },\n  \"scripts\": {\n    \"start\": \"react-scripts start\",\n    \"build\": \"react-scripts build\",\n    \"test\": \"react-scripts test\",\n    \"eject\": \"react-scripts eject\",\n    \"esdoc-report\": \"node_modules/.bin/esdoc -c esdoc.json\"\n  },\n  \"eslintConfig\": {\n    \"extends\": [\n      \"react-app\",\n      \"react-app/jest\"\n    ]\n  },\n  \"browserslist\": {\n    \"production\": [\n      \">0.2%\",\n      \"not dead\",\n      \"not op_mini all\"\n    ],\n    \"development\": [\n      \"last 1 chrome version\",\n      \"last 1 firefox version\",\n      \"last 1 safari version\"\n    ]\n  },\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jsdoc\": \"^3.6.10\"\n  }\n}\n",
+    "longname": "/home/vinay/postman-demo-app/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

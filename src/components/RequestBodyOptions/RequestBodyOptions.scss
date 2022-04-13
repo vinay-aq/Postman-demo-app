@@ -1,0 +1,19 @@
+.request-body-options {
+    display: flex;
+    font-size: 0.75rem;
+    color:#6B6B6B;  
+    cursor: pointer;
+
+
+    &>div {
+        margin-right:1.5rem ;
+        padding: 0.5rem 0;
+        &:hover {
+            color: black;
+        }
+    }
+}
+
+.active-selection {
+    border-bottom: 3px solid #ff6c37;
+}

@@ -1,0 +1,111 @@
+{
+  "coverage": "90.47%",
+  "expectCount": 21,
+  "actualCount": 19,
+  "files": {
+    "src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/ApiSearchbox/SendButton/SendButton.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/ApiSearchbox/index/ApiSearchbox.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/App.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/Content/Content.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/FlexWrapper/FlexWrapper.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/Header/Header.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/HeadersTable/HeadersTable.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/RequestBodyArea /RequestBodyArea.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/RequestBodyOptions/RequestBodyOptions.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/RequestInputArea/RequestInputArea.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/ResponseArea/ResponseArea.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/Sidebar/Sidebar.jsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        90
+      ]
+    },
+    "src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/hooks/useClickOutside.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/hooks/useLocalStorage.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/pages/Workspace.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/reportWebVitals.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/utils/contants.jsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}

@@ -1,0 +1,27 @@
+.dropdown-container {
+    width: 6.375rem;
+    position: absolute;
+    &__item {
+        display: inline-block;
+        width: 100%;
+        cursor: pointer;
+        height: 2rem;
+        padding:1px 1rem;
+        
+        line-height: 2rem;
+        background: white;
+       
+    }
+
+    &__item:hover {
+        background: #EDEDED;
+    }
+    .dropdown-selected {
+        background: #E6E6E6;
+    }
+}
+
+.dropdown {
+    position: relative;
+    font-size: 0.75rem;
+}

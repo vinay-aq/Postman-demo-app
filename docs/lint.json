@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Capsule",
+    "filePath": "src/components/ApiSearchbox/Dropdown/capsule/Capsule.jsx",
+    "lines": [
+      {
+        "lineNumber": 3,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 4,
+        "line": " * This is a child component for DropDown Component, it renders the box above actual drop down, which shows the selected value of dropdown.   "
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @method Capsule"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {string} text"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {method} onClickCapsule"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * @param {Boolean} showDropdown"
+      },
+      {
+        "lineNumber": 9,
+        "line": " * "
+      },
+      {
+        "lineNumber": 10,
+        "line": " */"
+      },
+      {
+        "lineNumber": 11,
+        "line": "function Capsule({ text, onClickCapsule, showDropdown }) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "text",
+      "onClickCapsule",
+      "showDropdown"
+    ]
+  },
+  {
+    "name": "Dropdown",
+    "filePath": "src/components/ApiSearchbox/Dropdown/index/Dropdown.jsx",
+    "lines": [
+      {
+        "lineNumber": 4,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * This function renders general Dropdowns, used in  API type(GET,POST,DELETE,PUT) Dropdown in here.  "
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @method Dropdown"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {string} [inputArray]"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * @param {method} [onSelect]"
+      },
+      {
+        "lineNumber": 9,
+        "line": " * @param {method} [selectedString]"
+      },
+      {
+        "lineNumber": 10,
+        "line": " * "
+      },
+      {
+        "lineNumber": 11,
+        "line": " */"
+      },
+      {
+        "lineNumber": 12,
+        "line": ""
+      },
+      {
+        "lineNumber": 13,
+        "line": "function Dropdown({ inputArray, onSelect, selectedString }) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "inputArray",
+      "onSelect",
+      "selectedString"
+    ]
+  },
+  {
+    "name": "ApiSearchbox",
+    "filePath": "src/components/ApiSearchbox/index/ApiSearchbox.jsx",
+    "lines": [
+      {
+        "lineNumber": 7,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * This function renders (Dropdown, input and the send Button) on UI responsible for search handling the API URL with API type(GET,POST,DELETE,PUT)."
+      },
+      {
+        "lineNumber": 9,
+        "line": " * @method ApiSearchBox"
+      },
+      {
+        "lineNumber": 10,
+        "line": " * @param {string} [apiURL]"
+      },
+      {
+        "lineNumber": 11,
+        "line": " * @param {method} [setApiURL]"
+      },
+      {
+        "lineNumber": 12,
+        "line": " * @param {method} [handleAPIRequest]"
+      },
+      {
+        "lineNumber": 13,
+        "line": " * @param {method} [apiTypeListDropdown]"
+      },
+      {
+        "lineNumber": 14,
+        "line": " * @param {method} [setApiTypeListDropdown]"
+      },
+      {
+        "lineNumber": 15,
+        "line": " */"
+      },
+      {
+        "lineNumber": 16,
+        "line": "function ApiSearchbox({"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "apiURL",
+      "setApiURL",
+      "handleAPIRequest",
+      "apiTypeListDropdown",
+      "setApiTypeListDropdown"
+    ]
+  },
+  {
+    "name": "FlexWrapper",
+    "filePath": "src/components/FlexWrapper/FlexWrapper.jsx",
+    "lines": [
+      {
+        "lineNumber": 2,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 3,
+        "line": " * This function renders (Dropdown, input and the send Button) on UI responsible for search handling the API URL with API type(GET,POST,DELETE,PUT).  "
+      },
+      {
+        "lineNumber": 4,
+        "line": " * @method ApiSearchBox"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @param {object} [children]"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {string} [height]"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {string} [className]"
+      },
+      {
+        "lineNumber": 8,
+        "line": ""
+      },
+      {
+        "lineNumber": 9,
+        "line": " */"
+      },
+      {
+        "lineNumber": 10,
+        "line": ""
+      },
+      {
+        "lineNumber": 11,
+        "line": "function FlexWrapper({children,height,direction,className}) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "children",
+      "height",
+      "className"
+    ]
+  },
+  {
+    "name": "HeadersTable",
+    "filePath": "src/components/HeadersTable/HeadersTable.jsx",
+    "lines": [
+      {
+        "lineNumber": 2,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 3,
+        "line": " * This component renders the table of key-value pairs required for additional Headers for the API requests.    "
+      },
+      {
+        "lineNumber": 4,
+        "line": " * @method HeadersTable"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @param {string} text"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {method} onClickCapsule"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {Boolean} showDropdown"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * "
+      },
+      {
+        "lineNumber": 9,
+        "line": " */"
+      },
+      {
+        "lineNumber": 10,
+        "line": ""
+      },
+      {
+        "lineNumber": 11,
+        "line": "function HeadersTable({handleChangeHeader,additionalHeaders}) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "text",
+      "onClickCapsule",
+      "showDropdown"
+    ]
+  },
+  {
+    "name": "RequestBodyArea",
+    "filePath": "src/components/RequestBodyArea /RequestBodyArea.jsx",
+    "lines": [
+      {
+        "lineNumber": 2,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 3,
+        "line": " * This component renders the textArea required to input payload in the request body of the API requests."
+      },
+      {
+        "lineNumber": 4,
+        "line": " * @method RequestBodyArea"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @param {method} onChange"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {object} value"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * "
+      },
+      {
+        "lineNumber": 8,
+        "line": " */"
+      },
+      {
+        "lineNumber": 9,
+        "line": "function RequestBodyArea({onChange,value}) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "onChange",
+      "value"
+    ]
+  },
+  {
+    "name": "RequestBodyOptions",
+    "filePath": "src/components/RequestBodyOptions/RequestBodyOptions.jsx",
+    "lines": [
+      {
+        "lineNumber": 3,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 4,
+        "line": " * This function renders the list of tabs options, for API requests body and header."
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @method RequestBodyOptions"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {array} [optionsList]"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {method} [onClickTab]"
+      },
+      {
+        "lineNumber": 8,
+        "line": " */"
+      },
+      {
+        "lineNumber": 9,
+        "line": "function RequestBodyOptions({optionsList,onClickTab}) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "optionsList",
+      "onClickTab"
+    ]
+  },
+  {
+    "name": "RequestInputArea",
+    "filePath": "src/components/RequestInputArea/RequestInputArea.jsx",
+    "lines": [
+      {
+        "lineNumber": 3,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 4,
+        "line": " * This component renders the `additional Headers table` or `request body area` component based on the selection on the tabs(Headeror Body)"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @method RequestInputArea"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {method} handleChangeHeader"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {string} selectedOptionType"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * @param {object} additionalHeaders"
+      },
+      {
+        "lineNumber": 9,
+        "line": " * @param {method}   setRequestBodyData"
+      },
+      {
+        "lineNumber": 10,
+        "line": " * @param {object} reqBodyData"
+      },
+      {
+        "lineNumber": 11,
+        "line": " */"
+      },
+      {
+        "lineNumber": 12,
+        "line": "const RequestInputArea = ({"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "handleChangeHeader",
+      "selectedOptionType",
+      "additionalHeaders",
+      "setRequestBodyData",
+      "reqBodyData"
+    ]
+  },
+  {
+    "name": "BlueButtonWrapper",
+    "filePath": "src/containers/BlueButtonWrapper/BlueButtonWrapper.jsx",
+    "lines": [
+      {
+        "lineNumber": 2,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 3,
+        "line": " * This function is a  wrapper component for Blue Buttons in the application.   "
+      },
+      {
+        "lineNumber": 4,
+        "line": " * @method ApiSearchBox"
+      },
+      {
+        "lineNumber": 5,
+        "line": " * @param {object} [children]"
+      },
+      {
+        "lineNumber": 6,
+        "line": " * @param {string} [className]"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * @param {method} [onClick]"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * "
+      },
+      {
+        "lineNumber": 9,
+        "line": " */"
+      },
+      {
+        "lineNumber": 10,
+        "line": "function BlueButtonWrapper({children,className,onClick}) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "children",
+      "className",
+      "onClick"
+    ]
+  }
+]

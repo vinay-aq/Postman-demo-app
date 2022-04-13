@@ -1,0 +1,11 @@
+textarea { resize: none; }
+
+.text-area {
+    height: 10rem;
+    padding: 1rem;
+    border: 1px solid #ecec;
+    &:focus {
+        outline: none;
+    }
+}
+

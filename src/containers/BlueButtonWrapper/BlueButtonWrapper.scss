@@ -1,0 +1,12 @@
+.blue-btn-wrapper {
+    color: white;
+    background-color: #097bed;
+    // filter: invert(96%) sepia(38%) saturate(0%) hue-rotate(346deg) brightness(109%) contrast(100%);
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+&:hover {
+    background: #0265d2;
+}
+
+}

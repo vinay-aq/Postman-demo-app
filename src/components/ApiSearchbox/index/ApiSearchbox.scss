@@ -1,0 +1,22 @@
+.input-container {
+    // align-items: flex-start;  
+    // margin: 0.5rem 0;
+   margin-bottom: 0.5rem ;
+   
+}
+
+.input-container__input {
+    padding: 10px;
+    width: 100%;
+    background: #F2F2F2;
+    width: calc(100vw - 522px);
+    outline: none;
+    border: 1px solid #ececec;
+
+      &:focus {
+        background: white;
+      }
+
+
+}
+

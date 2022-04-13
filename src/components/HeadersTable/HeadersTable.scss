@@ -1,0 +1,21 @@
+.headers-table,.headers-table th, .headers-table td {
+    border: 1px solid #ececec;
+    border-collapse:collapse;
+    text-align: left;
+    padding: 0.5rem;
+}
+
+.headers-table th {
+    font-weight: normal;
+    font-size: 0.75rem;
+}
+
+.headers-table textarea {
+    border: 1px solid #ececec;
+    border: none;
+    // padding: 0 0.5rem;
+    width: 100%;
+    &:focus {
+        outline: none;
+    }
+}

@@ -1,0 +1,8 @@
+.pre-response {
+    // height: 50vh;
+    height: calc(100vh - 23.5rem);
+    padding: 1rem;
+    white-space: wrap;
+    overflow-y: auto;
+    border: 1px solid #ecec;
+}
